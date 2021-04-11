@@ -1,0 +1,4 @@
+#Sun Apr 11 18:32:05 CDT 2021
+base.0=D\:\\MyFlutterDisc\\flutterdisc\\FlutterDisc\\flutter_disc\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
